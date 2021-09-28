@@ -1,9 +1,5 @@
 ### Hi, I'm Zach 👋
-I'm a computer engineering student at the University of Maryland who loves 
- - 🤖 Robotics
- - 🛠 Web Development
- - 🔐 Cybersecurity
- - ⚡ Hardware Engineering
+I'm a computer engineering student at the University of Maryland who loves robotics, web dev, cybersecurity, and hardware hacking
 
 ### 👨‍💻 Check out some of my projects
  - 📱 [`bitcamp/mobile-app`](https://github.com/bitcamp/mobile-app): Cross-platform mobile app I shipped to 1000+ hackathon participants at Bitcamp
