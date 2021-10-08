@@ -5,8 +5,8 @@ I'm a computer engineering student at the University of Maryland who loves robot
  - 📱 [`bitcamp/mobile-app`](https://github.com/bitcamp/mobile-app) Cross-platform mobile app I shipped to 1000+ hackathon participants at Bitcamp
  - 🔑 [`team-pass/FIDO-login`](https://github.com/team-pass/FIDO-login) FIDO2-compliant webpage for my undergrad research into biometric authentication on the web
  - 🤖 [`zbreit/team-mixtape-OSV`](https://github.com/zbreit/team-mixtape-OSV) "Over-Sand Vehicle" robot that navigates to and extinguishes candles using a mechanical arm
- - 🙋‍♀️ [`zbreit/AttendanceUC`](https://github.com/zbreit/AttendanceUC) QR-code attendance system for HackUC, a high school hackathon I helped organize
  - 📨 [`zbreit/UART-verilog`](https://github.com/zbreit/UART-Verilog) Implementation of the UART serial communication protocol in Verilog
+ - 🙋‍♀️ [`zbreit/AttendanceUC`](https://github.com/zbreit/AttendanceUC) QR-code attendance system for HackUC, a high school hackathon I helped organize
 
 ### 🤿 For fun...
 - 🏌️‍♂️ See if you can beat me in [code golf](https://code.golf/golfers/zbreit) (I golf in Python 🐍)
