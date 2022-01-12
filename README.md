@@ -6,7 +6,7 @@ I'm a computer engineering student at the University of Maryland who loves robot
  - 🔑 [`team-pass/FIDO-login`](https://github.com/team-pass/FIDO-login) FIDO2-compliant webpage for my undergrad research into biometric authentication on the web
  - 🤖 [`zbreit/team-mixtape-OSV`](https://github.com/zbreit/team-mixtape-OSV) "Over-Sand Vehicle" robot that navigates to and extinguishes candles using a mechanical arm
  - 📨 [`zbreit/UART-verilog`](https://github.com/zbreit/UART-Verilog) Implementation of the UART serial communication protocol in Verilog
- - 🙋‍♀️ [`zbreit/AttendanceUC`](https://github.com/zbreit/AttendanceUC) QR-code attendance system for HackUC, a high school hackathon I helped organize
+ - 💿 [`zbreit/spofity-covergen`](https://github.com/zbreit/spotify-covergen) Spotify app for making beautiful playlist covers
 
 ### 🤿 For fun...
 - 🏌️‍♂️ See if you can beat me in [code golf](https://code.golf/golfers/zbreit) (I golf in Python 🐍)
