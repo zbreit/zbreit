@@ -1,12 +1,12 @@
 ### 👋 Hi, I'm Zach
-I'm a computer engineering student at the University of Maryland who loves robotics, web dev, cybersecurity, and hardware design
+I'm a computer engineer working at [Key Tech](https://www.keytechinc.com/) who loves robotics, web dev, cybersecurity, and digital logic design
 
 ### 👨‍💻 Check out some of my projects:
  - 📱 [`bitcamp/mobile-app`](https://github.com/bitcamp/mobile-app) Cross-platform mobile app I shipped to 1000+ hackathon participants at Bitcamp
+ - 💿 [`zbreit/spofity-covergen`](https://github.com/zbreit/spotify-covergen) Spotify app for making beautiful playlist covers
  - 🔑 [`team-pass/FIDO-login`](https://github.com/team-pass/FIDO-login) FIDO2-compliant webpage for my undergrad research into biometric authentication on the web
  - 🤖 [`zbreit/team-mixtape-OSV`](https://github.com/zbreit/team-mixtape-OSV) "Over-Sand Vehicle" robot that navigates to and extinguishes candles using a mechanical arm
  - 📨 [`zbreit/UART-verilog`](https://github.com/zbreit/UART-Verilog) Implementation of the UART serial communication protocol in Verilog
- - 💿 [`zbreit/spofity-covergen`](https://github.com/zbreit/spotify-covergen) Spotify app for making beautiful playlist covers
 
 ### 🤿 For fun...
 - 🏌️‍♂️ See if you can beat me in [code golf](https://code.golf/golfers/zbreit) (I golf in Python 🐍)
